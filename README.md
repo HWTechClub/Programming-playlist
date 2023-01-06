@@ -16,4 +16,4 @@ think and just requries you to get in a zone to get code to flow.
 
 
 ## Focus pased programming: 
-- [Album: The Legend of Zelda: Breath of the Wild(https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild_Original_Soundtrack)
+- [Album: The Legend of Zelda: Breath of the Wild](https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild_Original_Soundtrack)
