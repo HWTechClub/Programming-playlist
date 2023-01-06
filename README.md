@@ -13,3 +13,7 @@ think and just requries you to get in a zone to get code to flow.
 - [Shoukei to Shikabane no Michi](https://open.spotify.com/track/7lcTpZtdTyfiIgVIpmTVut?si=0052467d1da049cb)
 - [ファティマ](https://open.spotify.com/track/4UPR9dSw2YcvJQAGJKPwCk?si=43dbe075a7ea4920)
 - [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4?si=V4ufBGK0QWOczCWGhSDFgg)
+
+
+## Focus pased programming: 
+- [Album: The Legend of Zelda: Breath of the Wild(https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild_Original_Soundtrack)
